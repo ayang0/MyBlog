@@ -3,14 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: AYANg`BLOG
+title: AYANG的博客网站
 subtitle: ''
-description: ''
+description: 'AYANG`BLOG'
 keywords:
 author: ayang
-language: cn
+language: zh-CN
 timezone: 'GMT+8'
-theme: volantis
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -98,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: volantis
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
